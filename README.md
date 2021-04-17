@@ -4,7 +4,7 @@
 
 ## Description
 
-This webpage is a product landing page for fictitious Online Food Delivery system. It contains all the sections of a single page product landing page. The purpose of the application is to explore the efficiency of using flexbox to achieve complex layouts. No frameworks or other libraries were used during the project.
+This webpage is a product landing page for fictitious Online Food Delivery Service. It contains all the sections of a single page product landing page. The purpose of the application is to explore the efficiency of using flexbox to achieve complex layouts. No frameworks or other libraries were used during the project.
 
 ## Setup/Installation Requirements
 * Visual Studio Code
