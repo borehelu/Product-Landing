@@ -38,6 +38,7 @@ nav{
   padding-bottom: 1.2em;
   border-bottom: 4px solid #CE6E67;
   border-radius: 2px;
+  color: #236FA9;
 }
 .sign-up{
   display: flex;
@@ -55,18 +56,14 @@ nav{
   text-align: center;
   border-radius: 3em;
   padding: .7em;
+  border: 2px solid #CE6E67;
+  color: #CE6E67
   
 }
-#signup{
-  border: 1px solid #CE6E67;
-  color: #CE6E67
-}
-#login{
-  background-color: #CE6E67;
-  color: #fff;
-}
+
 #signup:hover{
-  border: 2px solid #CE6E67;
+  border: 2px solid #bd8480;
+  color: #bd8480;
 }
 #login:hover{
   background-color: #c05b54;
@@ -249,6 +246,10 @@ nav{
   background-color: #a54841;
   color: #fff;
   padding: 2em;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .cta h1{
@@ -260,7 +261,7 @@ nav{
 
 .cta p{
   text-align: center;
-  font-size: 1.2em;
+  font-size: .9em;
   font-weight: 700;
   font-family: 'Open Sans';
   margin-bottom: 2em;
@@ -337,4 +338,20 @@ footer .copyrights{
 footer .copyrights a{
   color: #a54841;
   text-decoration: none;
+}
+
+.copyrights{
+  display: flex;
+  justify-content: space-between;
+}
+
+.social i{
+  font-size: 16px;
+  margin-right: 8px;
+  color: #1d1d1d;
+
+}
+
+.social a:hover i{
+  color: #236FA9;
 }
