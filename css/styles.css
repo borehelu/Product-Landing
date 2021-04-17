@@ -52,7 +52,7 @@ nav{
   text-decoration: none;
   font-family: 'Open Sans';
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 400;
   text-align: center;
   border-radius: 3em;
   padding: .7em;
@@ -216,15 +216,18 @@ nav{
   display: flex;
   box-shadow: 0px 2px 6px #999;
   padding: 1em;
-  height: 200px;
+  height: 160px;
   min-width: 400px;
   margin-right: 1.5em;
   align-items: center;
 }
 
 .testimonial img{
-  width: 190px;
-  height: 190px;
+  max-width: 140px;
+  max-height: 140px;
+  border: 6px solid #fff;
+  box-shadow: 1px 2px 5px #999;
+  border-radius: 50%;
   margin-right: 1em;
 }
 
@@ -232,12 +235,6 @@ nav{
   text-align: left;
 }
 
-.testimonial p::before{
-  content: '"';
-  color: #1d1d1d;
-  font-size: 2em;
-
-}
 
 .testimonial span{
   color: #c05b54;
@@ -328,10 +325,6 @@ footer .footer-nav{
   color: #236FA9;
 }
 
-footer hr{
-  color: #ddd;
-  margin-bottom: 1em;
-}
 
 footer .copyrights{
   font-size: 13px;
@@ -341,6 +334,14 @@ footer .copyrights{
 footer .copyrights a{
   color: #a54841;
   text-decoration: none;
+}
+
+footer .hr{
+  background-color: #eee;
+  height: 3px;
+  width: 100%;
+  margin-bottom: 1em;
+
 }
 
 .copyrights{
