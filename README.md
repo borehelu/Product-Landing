@@ -17,6 +17,6 @@ HTML and CSS
 ## Support and contact details
 borehelu@gmail.com
 ### License
-*Licensed under [MIT LICENSE](LICENSE)*
+*Licensed under [MIT LICENSE](LICENSE.txt)*
 Copyright (c) 2021 **Helu Bore**
   
