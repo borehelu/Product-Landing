@@ -100,7 +100,7 @@ nav{
 
 .headline a{
   display: block;
-  width: 100px;
+  width: 125px;
   text-decoration: none;
   font-family: 'Open Sans';
   font-size: 16px;
@@ -110,6 +110,9 @@ nav{
   color: #fff;
   text-align: center;
   background-color: #c05b54;
+}
+.headline i{
+  margin-left: 8px;
 }
 .headline a:hover{
   background-color: #CE6E67;
