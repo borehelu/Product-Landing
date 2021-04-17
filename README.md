@@ -1,5 +1,5 @@
 # Ethiocuisine Landing Page
-#### A complete landing page implemented using html and css, 16 Apr 2021
+#### A complete landing page implemented using HTML5 and CSS3, 16 Apr 2021
 #### By **Helu Bore**
 
 ## Description
@@ -17,6 +17,6 @@ HTML and CSS
 ## Support and contact details
 borehelu@gmail.com
 ### License
-*Licensed under the [MIT LICENSE](LICENSE)*
+*Licensed under [MIT LICENSE](LICENSE)*
 Copyright (c) 2021 **Helu Bore**
   
