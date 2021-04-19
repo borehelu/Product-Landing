@@ -10,29 +10,24 @@ nav{
   box-shadow: 0px 1px 4px #999;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   
 }
-.navigation{
-  display: flex;
-  justify-content: space-between;
-  
-}
+
 .navigation ul{
   display: flex;
+  justify-content: space-evenly;
   list-style: none;
-  margin-left: 5em;
-  margin-right: 5em;
    
 }
 .navigation ul li{
-  margin-right: 2em;
+  margin-right: 2.5em;
 }
 .navigation ul a{
   text-decoration: none;
   font-family: 'Open Sans';
   color: #1d1d1d;
-  font-size: 14px;
+  font-size: 15px;
 }
 .navigation ul a:hover{
   padding-bottom: 1.2em;
