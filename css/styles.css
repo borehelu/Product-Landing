@@ -355,9 +355,10 @@ nav{
   margin: 1em 0px;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
 }
 .partners .logo img{
+  margin-right: 1.5em;
   max-height: 100px;
 }
 /* contact */
