@@ -477,22 +477,25 @@ textarea{
 /* style footer */
 
 footer{
-  padding: 2em;
+  padding: 1.5em;
   margin-top: 2em;
   border-top: 2px solid #efefef;
+  display: flex;
+  flex-direction: column;
   
   
 }
 
 footer img{
   height: 150px;
+  align-self: flex-start;
   
 }
 
 
 footer .footer-nav{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   margin-bottom: 2em;
 }
 
