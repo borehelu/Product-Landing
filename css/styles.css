@@ -210,6 +210,13 @@ nav{
   font-family: 'Open Sans';
 }
 
+.feature{
+  max-width: 30%;
+  margin: 3em auto;
+  display: flex;
+  flex-direction: column;
+}
+
 .feature h2{
   font-family: 'Rubik';
   font-size: 1.4em;
@@ -222,13 +229,10 @@ nav{
   display: flex;
 }
 
-.feature{
-  max-width: 30%;
-  margin: 3em auto;
-}
 
 .feature img{
-  height: 200px;
+  height: 150px;
+  margin-bottom: 2em;
 }
 
 #downloadbtn{
