@@ -2,6 +2,9 @@
 #### A complete landing page implemented using HTML5 and CSS3, 16 Apr 2021
 #### By **Helu Bore**
 
+
+[![Landing Page Screen Shot][product-screenshot]](https://example.com)
+
 ## Description
 
 This webpage is a product landing page for fictitious Online Food Delivery Service. It contains all the sections of a single page product landing page. The purpose of the application is to explore the efficiency of using flexbox to achieve complex layouts. No frameworks or other libraries were used during the project.
